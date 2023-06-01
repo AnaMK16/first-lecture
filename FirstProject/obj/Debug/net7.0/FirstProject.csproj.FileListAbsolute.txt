@@ -1,0 +1,15 @@
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/bin/Debug/net7.0/FirstProject
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/bin/Debug/net7.0/FirstProject.deps.json
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/bin/Debug/net7.0/FirstProject.runtimeconfig.json
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/bin/Debug/net7.0/FirstProject.dll
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/bin/Debug/net7.0/FirstProject.pdb
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.csproj.AssemblyReference.cache
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.AssemblyInfoInputs.cache
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.AssemblyInfo.cs
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.csproj.CoreCompileInputs.cache
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.dll
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/refint/FirstProject.dll
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.pdb
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/FirstProject.genruntimeconfig.cache
+/home/ana/RiderProjects/DigitalBusTraining/FirstProject/obj/Debug/net7.0/ref/FirstProject.dll
