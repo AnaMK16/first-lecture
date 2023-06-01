@@ -13,7 +13,7 @@
 long number = 5;
 int number1 = Convert.ToInt32(number);
 //Console.WriteLine(number1);
-
+int number5 = 6;
 
 int number2 = 6;
 number2 = 10;
