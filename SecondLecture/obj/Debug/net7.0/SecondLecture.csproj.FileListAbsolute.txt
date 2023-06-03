@@ -1,0 +1,15 @@
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/bin/Debug/net7.0/SecondLecture
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/bin/Debug/net7.0/SecondLecture.deps.json
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/bin/Debug/net7.0/SecondLecture.runtimeconfig.json
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/bin/Debug/net7.0/SecondLecture.dll
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/bin/Debug/net7.0/SecondLecture.pdb
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.csproj.AssemblyReference.cache
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.AssemblyInfoInputs.cache
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.AssemblyInfo.cs
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.csproj.CoreCompileInputs.cache
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.dll
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/refint/SecondLecture.dll
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.pdb
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/SecondLecture.genruntimeconfig.cache
+/home/ana/RiderProjects/DigitalBusTraining/SecondLecture/obj/Debug/net7.0/ref/SecondLecture.dll
